@@ -6,4 +6,4 @@
     e.g.:
         C:\development\Retrainer\
         C:\development\Managed\
-3.  build Retrainer.dll in Visual Studio
+3.  build Retrainer.dll in Visual Studio (outputs to `Retrainer\bin\Debug\Retrainer.dll`)
