@@ -8,5 +8,5 @@
     e.g.:
         C:\development\Retrainer\
         C:\development\Managed\
-4.  build Retrainer.dll in Visual Studio (outputs to `Retrainer\bin\Debug\Retrainer.dll`)
+4.  build this project in Visual Studio (output-file `Retrainer\bin\Debug\Retrainer.dll`)
 ```
